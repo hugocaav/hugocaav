@@ -48,7 +48,7 @@ The University of Texas at El Paso (UTEP)
 
 **Certifications:**  
 - Complete FullStack Web Developer (HTML5, CSS3, JavaScript, PHP, MySQL)
-- Cybersecutiy using Kali Linux using pasive, semiactive, and active data collection techniques. 
+- Cybersecutiy Udemy Course using Kali Linux for pasive, semiactive, and active data collection techniques. 
 
 ---
 
@@ -60,7 +60,7 @@ The University of Texas at El Paso (UTEP)
 - 🔒 Collaborated with server administrators for efficient data management and security.
 
 #### 🛠️ Computer Science Tech Support | UTEP  
-*Tech Support | October 2023 - Present*  
+*Tech Support | October 2023 - February 2024*  
 - 🌐 Appointed **Webmaster** for Computer Science faculty, managing content and website updates.
 - 🔑 Deployed new systems and managed access keys for critical academic resources.
 

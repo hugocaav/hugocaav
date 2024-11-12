@@ -40,10 +40,6 @@
 
 ###
 
-<br clear="both">
-
-###
-
 ### 📜 Education
 
 **Bachelor of Science in Computer Science**  
